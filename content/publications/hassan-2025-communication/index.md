@@ -9,9 +9,14 @@ authors:
 - R. Gottumukkala
 - V. Raghavan
 date: '2025-01-01'
-publishDate: '2026-09-27T03:37:01.731443Z'
 publication_types:
 - article-journal
 publication:
-  name: "IEEE Transactions on Information Forensics and Security"
+  name: IEEE Transactions on Information Forensics and Security
+  volume: '20'
+  pages: 3031-3044
+featured: true
+links:
+- type: doi
+  url: https://doi.org/10.1109/tifs.2025.3548544
 ---

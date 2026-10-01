@@ -1,60 +1,56 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-
 name:
   display: Mehedi Hassan
   given: Mehedi
   family: Hassan
-
 postnominals:
-  - PhD
-
+- PhD
 role: Instructor, Electrical Engineering and Computer Science
+bio: 'I am an Instructor in the Department of Electrical Engineering and Computer
+  Science at the University of Arkansas. I earned my Ph.D. in Computer Science from
+  the University of Louisiana at Lafayette in 2024, advised by Dr. Mehmet Engin Tozal.
+  My dissertation examined anomalous link detection in dynamically evolving complex
+  systems.
 
-bio: |
-  I am an Instructor in the Department of Electrical Engineering and
-  Computer Science at the University of Arkansas. I earned my Ph.D.
-  in Computer Science from the University of Louisiana at Lafayette,
-  where I worked with Dr. Mehmet Engin Tozal.
 
-  My research lies at the intersection of cybersecurity, machine
-  learning, and complex networked systems. I develop methods for
-  detecting anomalous communication behaviors and suspicious links
-  in dynamically evolving networks.
+  My research combines machine learning, cybersecurity, and network science to detect
+  suspicious communications and emerging threats in evolving networks. My work includes
+  probabilistic network models, spectral representations, graph attention networks,
+  and payload embeddings. I also collaborate on applied machine learning and health
+  informatics research.
 
-  I also collaborate with the Center for Computational & Data Sciences
-  at Independent University, Bangladesh.
 
+  Previously, I was a Visiting Instructor at Georgia Southern University and a Lecturer
+  at Green University of Bangladesh. I collaborate with the Center for Computational
+  & Data Sciences at Independent University, Bangladesh.'
 affiliations:
-  - name: University of Arkansas
-    url: https://www.uark.edu/
-
+- name: University of Arkansas
+  url: https://www.uark.edu/
 links:
-  - icon: at-symbol
-    url: mailto:mehedi1798@gmail.com
-    label: Email
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=GT4p3rsAAAAJ
-    label: Google Scholar
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/mehedi-hassan-ull/
-    label: LinkedIn
-  - icon: brands/github
-    url: https://github.com/mehedi-hassan-1798
-    label: GitHub
-
+- icon: at-symbol
+  url: mailto:mehedi1798@gmail.com
+  label: Email
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=GT4p3rsAAAAJ
+  label: Google Scholar
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/mehedi-hassan-ull/
+  label: LinkedIn
+- icon: brands/github
+  url: https://github.com/mehedi-hassan-1798
+  label: GitHub
 interests:
-  - Machine Learning for Cybersecurity
-  - Dynamic Network Anomaly Detection
-  - Anomalous Link and Communication Detection
-  - Graph Neural Networks
-  - Explainable Machine Learning
-
+- Machine Learning for Cybersecurity
+- Dynamic Network Anomaly Detection
+- Anomalous Link and Communication Detection
+- Graph Neural Networks
+- Explainable Machine Learning
 education:
-  - degree: Ph.D. in Computer Science, 2024
-    institution: University of Louisiana at Lafayette
-  - degree: M.Sc. in Computer Science, 2021
-    institution: University of Louisiana at Lafayette
-  - degree: B.Sc. in Computer Science and Engineering, 2016
-    institution: Islamic University of Technology
+- degree: Ph.D. in Computer Science, 2024
+  institution: University of Louisiana at Lafayette
+- degree: M.Sc. in Computer Science, 2021
+  institution: University of Louisiana at Lafayette
+- degree: B.Sc. in Computer Science and Engineering, 2016
+  institution: Islamic University of Technology

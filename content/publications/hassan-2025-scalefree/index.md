@@ -8,9 +8,15 @@ authors:
 - R. Gottumukkala
 - V. Raghavan
 date: '2025-01-01'
-publishDate: '2026-09-27T03:37:01.739685Z'
 publication_types:
 - article-journal
 publication:
-  name: "IEEE Systems Journal"
+  name: IEEE Systems Journal
+  volume: '19'
+  issue: '3'
+  pages: 742-753
+featured: true
+links:
+- type: doi
+  url: https://doi.org/10.1109/jsyst.2025.3584706
 ---
